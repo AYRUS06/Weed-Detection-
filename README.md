@@ -46,12 +46,15 @@ The goal of this project is to accurately identify and distinguish between weeds
 | YOLOv8m   | CSPDarknet-53 (Elan) | 0.718     | 0.676  | 0.747 | 0.292    |
 | YOLOv8n   | CSPDarknet-53 (Elan) | 0.651     | 0.526  | 0.583 | 0.178    |
 | YOLOv7m   | Elan                | 0.640     | 0.513  | 0.555 | 0.145    |
+![Screenshot 2025-01-10 191834](https://github.com/user-attachments/assets/0f418f6e-0813-448a-8a19-9f6b52344149)
 
 #### Lincoln Beet Dataset
 | Model     | Backbone            | Precision | Recall | mAP50 | mAP50-95 |
 |-----------|---------------------|-----------|--------|-------|----------|
 | YOLOv8m   | CSPDarknet-53       | 0.652     | 0.864  | 0.746 | 0.618    |
 | YOLOv8n   | CSPDarknet-53       | 0.544     | 0.670  | 0.678 | 0.345    |
+![Screenshot 2025-01-10 191807](https://github.com/user-attachments/assets/d8f08ab8-0283-4717-bc73-15a55fb2c9a8)
+
 
 ### Observations
 - Results on the Chicory Plant Dataset are promising.
